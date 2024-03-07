@@ -1,4 +1,4 @@
-**# Evidence Deep Learning and Dual Branch
+## Evidence Deep Learning and Dual Branch
 
 
 ![image](https://github.com/Gardnery/Evidence-Deep-Learning-and-Dual-Branch-Dynamic-Fusion/image.png)
@@ -42,17 +42,8 @@ python train_ACDC.py
 ```test_ACDC
 python test.py
 ```
-
-
-
-# Citation
-
-```bash
-@inproceedings{li2023scribblevc,
-  title={ScribbleVC: Scribble-supervised Medical Image Segmentation with Vision-Class Embedding},
-  author={Li, Zihan and Zheng, Yuan and Luo, Xiangde and Shan, Dandan and Hong, Qingqi},
-  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
-  year={2023}
-}
+```test_ODD
+python test_ODD.py
 ```
-**
+
+
