@@ -1,7 +1,7 @@
 ## Evidence Deep Learning and Dual Branch
 
 
-![image](https://github.com/Evidence-Deep-Learning-and-Dual-Branch-Dynamic-Fusion/blob/main/images.png)
+![image](https://github.com/Gardnery/Evidence-Deep-Learning-and-Dual-Branch-Dynamic-Fusion/blob/main/images.png)
 
 
 ## Datasets
