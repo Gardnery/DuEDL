@@ -3,7 +3,7 @@
 
 ![image](https://github.com/Gardnery/Evidence-Deep-Learning-and-Dual-Branch-Dynamic-Fusion/blob/main/images.png)
 
-
+This code is interoperable with [WSL4MIS](https://github.com/HiLab-git/WSL4MIS) and ScribbleVC
 ## Datasets
 
 ### ACDC
