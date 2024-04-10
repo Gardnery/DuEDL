@@ -1,7 +1,7 @@
 ## Evidence Deep Learning and Dual Branch
 
 
-![image](https://github.com/Gardnery/Evidence-Deep-Learning-and-Dual-Branch-Dynamic-Fusion/blob/main/图片1.png)
+![image](https://github.com/Gardnery/Evidence-Deep-Learning-and-Dual-Branch-Dynamic-Fusion/blob/main/图片 1.png)
 
 This code is interoperable with [WSL4MIS](https://github.com/HiLab-git/WSL4MIS) and ScribbleVC
 ## Datasets
