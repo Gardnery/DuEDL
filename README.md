@@ -42,8 +42,5 @@ python train_ACDC.py
 ```test_ACDC
 python test.py
 ```
-```test_ODD
-python test_ODD.py
-```
 
 
